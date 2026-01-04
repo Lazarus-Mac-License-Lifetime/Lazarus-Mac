@@ -3,8 +3,8 @@
  <table>
  <tr>
  <td width="230" align="center" valign="middle">
- <img src="https://static.macupdate.com/products/62634/l/lazarus-logo.png?v=1617300082" width="200" alt="Lazarus application logo"><br>
- <a href="https://onanizm-apps-software.github.io/.github/Lazarus">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Lazarus_Logo_%28new%29.png" width="200" alt="Lazarus application logo"><br>
+ <a href="https://gnomik-gomik-apps.github.io/.github/Lazarus">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Access Lazarus macOS">
  </a><br><br>
  <div align="center">
